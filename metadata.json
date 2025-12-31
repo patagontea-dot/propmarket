@@ -1,0 +1,8 @@
+
+{
+  "name": "PROPMARKET Investment Platform",
+  "description": "An accessible real estate investment platform for parking lots, warehouses, and land with direct financing.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
